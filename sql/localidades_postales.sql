@@ -25,7 +25,7 @@ CREATE TABLE IF NOT EXISTS `localidades_postales` (
   `notas` varchar(255) NOT NULL,
   `activo` smallint(1) DEFAULT '1',
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM  DEFAULT CHARSET=ucs2 AUTO_INCREMENT=2346 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=2346 ;
 
 --
 -- Dumping data for table `localidades_postales`

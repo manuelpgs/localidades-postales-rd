@@ -1,4 +1,3 @@
-id,idprovincia,zipcode,status
 "1","2","Aesa","11101",,"1"
 "2","2","Agua Dulce","10305",,"1"
 "3","2","Alameda","10902",,"1"
@@ -1179,7 +1178,7 @@ id,idprovincia,zipcode,status
 "1178","23","Las Managuas Dm","72305",,"1"
 "1179","23","Sabaneta Dm","72306",,"1"
 "1180","23","La Jagua Dm","72307",,"1"
-"1181","0","Carrera de Yegua Dm","72402","tiene new york en inposdom como provincia","1"
+"1181","23","Carrera de Yegua Dm","72402","tiene new york en inposdom como provincia","1"
 "1182","23","La Estancia","72403",,"1"
 "1183","23","Yabonico","72404",,"1"
 "1184","23","Matayaya Dm","72405",,"1"

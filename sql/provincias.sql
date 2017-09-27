@@ -22,7 +22,7 @@ CREATE TABLE IF NOT EXISTS `provincias` (
   `provincia` varchar(255) NOT NULL,
   `notas` varchar(255) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM  DEFAULT CHARSET=ucs2 AUTO_INCREMENT=33 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=33 ;
 
 --
 -- Dumping data for table `provincias`
